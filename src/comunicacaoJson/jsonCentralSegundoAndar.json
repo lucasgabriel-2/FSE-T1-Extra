@@ -1,0 +1,68 @@
+{
+    "ip_servidor_central": "localhost",
+    "porta_servidor_central": 10894,
+
+    "ip_servidor_distribuido_segundo_andar": "localhost",
+    "porta_servidor_distribuido_segundo_andar": 10893,
+
+    "quantidade_de_carros_segundo_andar": 0,
+
+    "segundo_andar_id_vaga_carro_a_pagar": 0,
+
+    "vagas_segundo_andar": [
+        {
+            "id_vaga_segundo_andar": 1,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+
+        {
+            "id_vaga_segundo_andar": 2,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+
+        {
+            "id_vaga_segundo_andar": 3,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+
+        {
+            "id_vaga_segundo_andar": 4,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+        {
+            "id_vaga_segundo_andar": 5,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+
+        {
+            "id_vaga_segundo_andar": 6,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+
+        {
+            "id_vaga_segundo_andar": 7,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        },
+
+        {
+            "id_vaga_segundo_andar": 8,
+            "id_carro_ocupando_vaga": 0,
+            "data_hora_entrada": "",
+            "data_hora_saida": ""
+        }
+    ]   
+}

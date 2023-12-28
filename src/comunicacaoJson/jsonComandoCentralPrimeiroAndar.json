@@ -1,0 +1,9 @@
+{
+    "ip_servidor_central": "localhost",
+    "porta_servidor_central": 10891,
+
+    "ip_servidor_distribuido_primeiro_andar": "localhost",
+    "porta_servidor_distribuido_primeiro_andar": 10892,
+    
+    "fechamento_manual_primeiro_andar": "False"
+}
